@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', Times, serif;    background-color: black;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #E90A0A;
+    height: 140px;
+}
+
+.logo{
+    width:120px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+main{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    background-color: #6e0000;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-radius: 35px;
+    
+}
+
+.foo {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+footer{
+   border-top: 15px solid red;
+   border-bottom: 15px solid red;
+
+}
